@@ -7,6 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzzerTester", "..\FizzBuzzerTester\FizzBuzzerTester.csproj", "{A2466E75-2469-4B2C-A15F-5A5EBE0E2541}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kata", "Kata", "{FE816AC4-F5AF-4179-A0D1-CB9B68DB5CE1}"
+	ProjectSection(SolutionItems) = preProject
+		..\tadekj87\NetJava\01_FizzBuzz\codewars_kata_solution.cs = ..\tadekj87\NetJava\01_FizzBuzz\codewars_kata_solution.cs
+		..\tadekj87\NetJava\01_FizzBuzz\kata1_solution.png = ..\tadekj87\NetJava\01_FizzBuzz\kata1_solution.png
+		..\tadekj87\NetJava\01_FizzBuzz\kata2_bsolution.png = ..\tadekj87\NetJava\01_FizzBuzz\kata2_bsolution.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
